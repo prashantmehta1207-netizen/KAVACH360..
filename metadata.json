@@ -1,0 +1,6 @@
+{
+  "name": "KAVACH360 AI Safety Intelligence",
+  "description": "Command center for heavy civil engineering and site safety directors featuring live AI vision telemetry, PPE compliance tracking, geofenced hazard lockout, and incident dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
